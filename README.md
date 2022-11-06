@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fabian
 - 👀 I’m interested in creating websites
-- 🌱 I’m currently learning HTML,CSS,JS
+- 🌱 I’m currently learning HTML,CSS,JS,PHP,C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
