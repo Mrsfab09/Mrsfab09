@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
-<img align="right" alt="Coding" width="800" src="https://png.pngtree.com/thumb_back/fw800/background/20211009/pngtree-matrix-digital-code-hacker-background-image_908354.png">
+<img align="right" alt="Coding" width="800" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsfab09&label=Profile%20views&color=0e75b6&style=flat" alt="mrsfab09" /> </p>
 
