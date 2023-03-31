@@ -1,3 +1,6 @@
+<header>
+  <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/thumb_back/fw800/background/20211009/pngtree-matrix-digital-code-hacker-background-image_908354.png">
+</header>
 <h1 align="center">Hi 👋, I'm Fabian</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
