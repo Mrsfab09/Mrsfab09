@@ -1,6 +1,7 @@
 <p align="left">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Fabian" alt="Typing SVG" /></a>
 </p>
+<img src="Frontend Developer.gif" alt="Frontend Developer">
 <p align="left">
   <a href="https://www.github.com/MrsFab09" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/github/followers/MrsFab09?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
@@ -31,6 +32,6 @@ Want I learn :monocle_face:
 Github Stats
 ---------------------------------------
 
-<a href="http://www.github.com/MrsFab09" align="left"><img src="https://github-readme-stats.vercel.app/api?username=MrsFab09&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="MrsFab09's GitHub stats" /></a>
+<a href="http://www.github.com/MrsFab09"><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=MrsFab09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="MrsFab09's GitHub stats" /></a>
 
-<a href="https://github.com/MrsFab09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsFab09&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/MrsFab09"><img align="left" width="300" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsFab09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
