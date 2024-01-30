@@ -22,6 +22,14 @@ Stuff I know :brain:
   </a>
 </p>
 
+While learning:
+--------------------------------------
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,ts" />
+  </a>
+</p>
+
 Want I learn :monocle_face:
 --------------------------------------
 
