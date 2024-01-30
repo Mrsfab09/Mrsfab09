@@ -22,7 +22,7 @@ Stuff I know :brain:
   </a>
 </p>
 
-While learning:
+While learning 📉
 --------------------------------------
 <p align="left">
   <a href="https://skillicons.dev">
@@ -35,7 +35,7 @@ Want I learn :monocle_face:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,ts,docker,mongodb,nodejs,graphql" />
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,nodejs,graphql" />
   </a>
 </p>
 
