@@ -35,7 +35,7 @@ Want I learn :monocle_face:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,mongodb,nodejs,graphql" />
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,nodejs,graphql,electron" />
   </a>
 </p>
 
