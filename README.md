@@ -1,9 +1,9 @@
 <p align="left">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Fabian" alt="Typing SVG" /></a>
 </p>
-<p align="left">
+<!-- <p align="left">
  <img src="Baner.png" alt="Frontend Developer">
- </p>
+ </p> -->
 <p align="left">
   <a href="https://www.github.com/MrsFab09" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/github/followers/MrsFab09?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
