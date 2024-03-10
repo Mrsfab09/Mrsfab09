@@ -42,6 +42,9 @@ Want I learn :monocle_face:
 Github Stats
 ---------------------------------------
 
-<a href="http://www.github.com/MrsFab09"><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=MrsFab09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="MrsFab09's GitHub stats" /></a>
-
-<a href="https://github.com/MrsFab09"><img align="left" width="300" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsFab09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
+<span>
+<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrsFab09&show_icons=true&locale=en&layout=compact&theme=transparent" alt="MrsFab09" /> 
+</span>
+<span>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=MrsFab09&show_icons=true&locale=en&theme=transparent" alt="MrsFab09" />
+</span>
