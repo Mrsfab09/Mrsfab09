@@ -18,7 +18,7 @@ Stuff I know :brain:
 --------------------------------------
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,python,react,next,ts" />
+    <img src="https://skillicons.dev/icons?i=github,python,react,tailwindcss,next,ts" />
   </a>
 </p>
 
