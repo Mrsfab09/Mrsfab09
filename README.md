@@ -10,7 +10,7 @@
 </p>
 <p align="left">
   My name is Fabian, I'm 17 years old and I want to become a software engineer in the future. <br>
-  He is interested in designing and creating websites. I like learning new technologies.
+  He is interested in designing and creating websites. I like learning new technologies. I like hot-dog and banana
 </p>
 
 
