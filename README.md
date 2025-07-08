@@ -27,7 +27,7 @@ Want I learn :monocle_face:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,electron,mongodb,nodejs,graphql,astro" />
+    <img src="https://skillicons.dev/icons?i=docker,tauri,mongodb,nodejs,graphql,astro" />
   </a>
 </p>
 
