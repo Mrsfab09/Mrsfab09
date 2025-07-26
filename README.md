@@ -9,7 +9,7 @@
   src="https://img.shields.io/github/followers/MrsFab09?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
 </p>
 <p align="left">
-  My name is Fabian, I'm 17 years old and I want to become a software engineer in the future. <br>
+  My name is Fabian, I'm 18 years old and I want to become a software engineer in the future. <br>
   He is interested in designing and creating websites. I like learning new technologies. 
 </p>
 
