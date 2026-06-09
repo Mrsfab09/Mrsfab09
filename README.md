@@ -18,7 +18,7 @@ Stuff I know :brain:
 --------------------------------------
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,python,react,tailwindcss,next,ts" />
+    <img src="https://skillicons.dev/icons?i=github,react,tailwindcss,next,ts,git" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@ Want I learn :monocle_face:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,tauri,mongodb,nodejs,graphql,astro" />
+    <img src="https://skillicons.dev/icons?i=docker,python,fastapi,postgresql,nodejs,astro" />
   </a>
 </p>
 
